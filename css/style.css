@@ -172,7 +172,7 @@ a {
 
 /* 左边轮播图 */
 .page .content .total_data .info .carousel {
-    width: 581px;
+    width: 49%;
     height: 100%;
     position: relative;
     overflow: hidden;
